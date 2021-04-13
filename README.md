@@ -1,24 +1,13 @@
-# README
+# Simple Airbnb Clone
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This Airbnb clone app was built with Ruby On Rails.
 
-Things you may want to cover:
+This app includes the following features:
 
-* Ruby version
+- As a user, I can see all the available flats on our website.
+- As a user, I can post a flat to the website, specifying its name and address.
+- As a user, I can see detailed information of a given flat.
+- As a user, I can edit the details of a flat if I made a mistake.
+- As a user, I can delete a flat from the website, in case I don’t want to rent it anymore.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Done during my time at Le Wagon.
